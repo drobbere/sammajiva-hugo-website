@@ -1,0 +1,4 @@
+baseURL = "https://www.sammajiva.be/"
+languageCode = "en-us"
+title = "Sammajiva"
+theme = "ananke"
