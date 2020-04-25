@@ -6,8 +6,8 @@ type: page
 ---
 ## Sammajiva heeft tot doel het maximaliseren van het welzijn van de mens, het milieu en de samenleving.
 
-Sammajiva ondersteunt een tal van interne projecten die dit doel dienen, 
-resulterende financiële meerwaarde wordt aangewend om externe projecten te bemseten, welke alsook dit doel dienen.
+Sammajiva biedt een kader en ondersteunt een tal van interne projecten die dit doel dienen. 
+Financiële meerwaarde die uit de interne projecten vloeien wordt aangewend om externe projecten te bemesten, welke ook in het teken staan van welzijn.
 
 Vennoten brengen middelen in ter ondersteuning van interne projecten, en krijgen in ruil medezeggenschap in de distributie van de gecreëerde financiële meerwaarde.
 

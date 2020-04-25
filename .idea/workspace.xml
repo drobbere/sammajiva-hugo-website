@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1934338-9e81-404c-a45f-e29810ad4237" name="Default Changelist" comment="">
+    <list default="true" id="b1934338-9e81-404c-a45f-e29810ad4237" name="Default Changelist" comment="add word vennoot page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/bezielers/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/bezielers/_index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1587186053939</updated>
     </task>
+    <task id="LOCAL-00001" summary="add word vennoot page">
+      <created>1587810951123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587810951124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,5 +73,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add word vennoot page" />
+    <option name="LAST_COMMIT_MESSAGE" value="add word vennoot page" />
   </component>
 </project>
