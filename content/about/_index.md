@@ -4,17 +4,17 @@ description: "Sammajiva behartigt het welzijn van ons allen"
 featured_image: '/images/rode-clover-zaailingen2.JPG'
 type: page
 ---
-Sammajiva heeft hoofdzakelijk tot doel een positieve maatschappelijke impact te bewerkstelligen op de mens, het milieu en de samenleving. Dit door haar intern projecten, bijvoorbeeld ‘Fietswinst’, welke de mens sensibiliseert en bijgevolg de shift naar de fiets ondersteunt. Winst uit dergelijke interne projecten, welke statutair niet kan worden uitgekeerd aan de vennoten, wordt aangewend om andere maatschappelijke doelen te voeden. Ook zijn sociale of economische voordelen die de vennoten genieten niet de hoofdzaak van onze coöperatie, de hoofdzaak is eerder het bewerkstelligen van een maatschappelijk effect. 
-Bij vereffening wordt aan het vermogen dat overblijft na aanzuivering van het passief een bestemming gegeven die zo compleet mogelijk aansluit bij ons voorwerp als erkende sociale
-onderneming; namelijk het maximaliseren van het welzijn van de mens, het milieu en de samenleving.
+## Sammajiva heeft tot doel het maximaliseren van het welzijn van de mens, het milieu en de samenleving.
 
-# Onze kernactiviteiten
+Sammajiva ondersteunt een tal van interne projecten die dit doel dienen, 
+resulterende financiële meerwaarde wordt aangewend om externe projecten te bemseten, welke alsook dit doel dienen.
 
-Vennoten brengen middelen in ter ondersteuning van interne projecten zoals fietswinst, dergelijke projecten verbeteren niet alleen het welzijn, ze genereren ook een meerwaarde die wordt aangewend voor de groei van externe projecten, welke ook in het teken staan van welzijn. Zo is het coöperatief een goed doel voor goede doelen, een fundraiser for fundraisers, een groenbemester dat het welzijn doet groeien. Bedrijfswinst wordt nooit uitgekeerd aan vennoten, maar wordt gebruikt om goede doelen te steunen. Vennoten kunnen vrij toetreden door een vrijblijvende gift te doen om de werking van het coöperatief en zijn doelen te ondersteunen, dit kan met behulp van financiële middelen of in natura (goederen of diensten). Genieten van de vruchten van het coöperatief geschiedt door medezeggenschap in de distributie van de “bedrijfswinst” van de interne projecten over verschillende externe projecten. (vennoten mogen niet kiezen voor een extern project waar ze op de payroll staan) 
+Vennoten brengen middelen in ter ondersteuning van interne projecten, en krijgen in ruil medezeggenschap in de distributie van de gecreëerde financiële meerwaarde.
 
-Publiekelijke demonstratie van een alternatief bedrijfsmodel op basis van welzijnsmaximalisatie met behulp van financiële middelen. Waarbij we passief en actief het welzijn trachten te maximaliseren van de rechtstreekse medewerkers, vennoten, onze klanten, alle burgers, de samenleving en de natuur. Hierbij worden financiële middelen niet als doel, maar als middel beschouwt.
+Zo is het coöperatief een goed doel voor goede doelen, een groenbemester die het welzijn doet groeien. 
+Bedrijfswinst wordt nooit uitgekeerd aan vennoten, maar wordt gebruikt om goede doelen te bemesten. 
 
-## Aanbieden van sociale diensten
+## Onze activiteiten
 Onze coöperatie voorziet in onderwijs en vorming die het persoonlijk en maatschappelijk welzijn ten goede komen. Deze activiteiten kunnen exclusief zijn voor leden, hun verkozen vertegenwoordigers, hun managers en hun werknemers, of volledig open, zodat ze doeltreffend kunnen bijdragen aan de ontwikkeling en de eigenheid van de coöperatie. Dergelijke activiteiten kunnen aangeboden worden mits een compensatie, waar de leden dan een duidelijk voordeel genieten. 
 
 Onze coöperatie voorziet in de organisatie van het “Feniks Traject”, een intern project over de verschillende andere interne projecten heen, welke een ondersteunend traject aanbiedt aan mensen die revalideren van een burn-out, met doel deze mensen op een positieve manier terug te integreren in het professioneel leven, door ze te laten meedraaien in 1 of meerdere van onze interne projecten.
